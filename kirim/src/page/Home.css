@@ -1,0 +1,69 @@
+.home {
+  display: flex;
+  height: 90vh;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+}
+
+.padding {
+  padding-bottom: 2rem;
+}
+
+.text-center text-secondary mt-4 {
+  text-align: center;
+}
+
+/* .carousel-item img{
+  width: 1000px;
+  height: none;
+  justify-content: center;
+  align-items: center;
+  max-height: none;
+  margin: auto; 
+  display: block;
+  position: center;
+} 
+
+.inner-item img {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+} */
+
+/* .welcome {
+  width: 75%;
+  margin: 0 auto;
+  padding-top: 2rem;
+}
+
+.welcome hr {
+  border-top: 2px solid #b4b4b4;
+  width: 95%;
+  margin-top: .3rem;
+  margin-bottom: 1rem;
+} */
+
+.container {
+  max-width: 700px;
+  width: 100%;
+  background: whitesmoke;
+  padding: 25px 30px;
+  border-radius: 5px;
+  /* background: linear-gradient(135deg, #71b7e6, #9b59b6); */
+}
+
+.card {
+  color: black;
+}
+
+.display-4 {
+  font-size: 50%;
+  text-align: center;
+}
+
+@media (max-width: 576px) {
+
+}
+
